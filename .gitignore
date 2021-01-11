@@ -1,4 +1,5 @@
 .env
+#added env and gitignore
 .gitignore
 node_modules
 # Logs
